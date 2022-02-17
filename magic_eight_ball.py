@@ -3,8 +3,13 @@ import random
 random_number = random.randint(1,10)
 # print(random_number)
   
+#Enter your name
 name = " "
+
+#Ask a question
 question = " "
+
+#An answer will be revealed
 answer = " "
 
 if random_number == 1:
